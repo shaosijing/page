@@ -29,9 +29,12 @@ body {
 
 #mobile-img{
 	border-radius:50%;
+	margin: auto;
 }
 
-
+#topcontrol img{
+	width:30px;
+}
 #publications, #present, #teaching{
 	background-color:#f7fcfc;
 }
