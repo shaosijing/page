@@ -107,4 +107,3 @@ deploy:
   type: git
   repo: https://github.com/shaosijing/shaosijing.github.io.git
   branch: master
-  message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
