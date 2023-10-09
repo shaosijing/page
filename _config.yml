@@ -104,4 +104,7 @@ theme: Academia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/shaosijing.github.io.git
+  branch: gh-pages
+  message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
