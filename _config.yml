@@ -107,3 +107,4 @@ deploy:
   type: git
   repo: https://github.com/shaosijing/page.git
   branch: gh-pages
+  message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
