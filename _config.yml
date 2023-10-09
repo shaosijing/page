@@ -15,7 +15,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://shaosijing.github.io/page
+url: http://shaosijing.github.io/page/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,5 +106,5 @@ theme: academia
 deploy:
   type: git
   repo: https://github.com/shaosijing/page.git
-  branch: gh-pages
+  branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
