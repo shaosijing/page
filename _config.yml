@@ -106,5 +106,5 @@ theme: academia
 deploy:
   type: git
   repo: https://github.com/shaosijing/page.git
-  branch: gh-pages
+  branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
