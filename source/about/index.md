@@ -18,25 +18,36 @@ Iowa State University, College of Arts and Science
 #### Teaching Experience
 
 Aug. 2020 — Dec. 2022   	
-Lab Instructor, Experimental Psychology.
+Lab Instructor, Experimental Psychology
 University of Notre Dame
 
 Jan. — May 2014   	
-Adjunct Instructor, Great Idea in Mathematics.
+Adjunct Instructor, Great Idea in Mathematics
 New York University
 
 Aug. 2011 — May 2012   	
-Help Room Tutor.
+Help Room Tutor
 Iowa State University
 
 Aug. 2008 — May 2012   	
-Academic Tutor 
+Academic Tutor
 Iowa State University 
 
+#### Research Experience 
+
+Aug. 2019 - Present
+Research Assistant
+University of Notre Dame 
+
+Jun. 2016 - Aug. 2019
+Senior Data Analyst
+Feinstein Institutes for Medical Research, Northwell Health
+
+Sep. 2014 - Jun. 2016
+Data Analyst
+Columbia University Medical Center
 
 #### Honors and Scholarships
-
-
 
 Student Travel Award at Society of Multivariate Experimental Psychology (2023)
 Outstanding Graduate Student Teaching Award (2022)
